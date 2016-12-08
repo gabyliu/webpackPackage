@@ -1,4 +1,4 @@
-# webpackPackage
+# webpack_package
 基于组件化开发的webpack脚手架
 ```
 npm install webpack_package
