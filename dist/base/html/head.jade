@@ -1,0 +1,9 @@
+#head.head
+	.inner.group
+		a.logo(href="/cgi-bin/mmemoticonmgr-bin/stikerchecklist?t=emotion/index&action=check&page=0", title="表情管理平台") 微信 | 表情管理平台
+		.search.r
+			span.frm_input_search
+				input.frm_input.js_search#stiker_search(type="text", placeholder="请输入要搜索的表情名或艺术家")
+		.avatar.r
+			span <%@WmlEncode($base_resp.token.DATA$)%>
+		
