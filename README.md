@@ -1,5 +1,5 @@
 # webpackPackage
-基于组件开发的webpack构建工具
+基于组件化开发的webpack脚手架
 ```
 npm install webpack_package
 ```
@@ -14,6 +14,7 @@ npm run init
 ![此处输入图片的描述][1]
 
 初始后的文件将会放在这两个目录
+
 ![此处输入图片的描述][2]
 
 任务用的是这个插件，详情可看[plugin-package-init][3]

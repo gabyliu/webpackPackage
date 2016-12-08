@@ -1,9 +1,9 @@
 import './index.less';
-import * as checkBox from "../../widgets/checkBox/index.js"
-import * as radio from "../../widgets/radio/index.js"
-import * as inputTextarea from "../../widgets/InputTextarea/index.js"
-import * as popover from "../../widgets/popover/index.js"
-import * as ImagePicker from "../../widgets/ImagePicker/index.js"
+PACKAGE * as checkBox from "checkBox";
+PACKAGE * as radio from "radio";
+PACKAGE * as inputTextarea from "InputTextarea";
+PACKAGE * as popover from "popover";
+PACKAGE * as ImagePicker from "ImagePicker";
 
 
 var Inner = React.createClass({
