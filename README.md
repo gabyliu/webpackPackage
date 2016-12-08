@@ -3,7 +3,7 @@
 ```
 npm install webpack_package
 ```
-安装构建工具
+安装脚手架
 
 ## task
 1.初始化页面或组件
