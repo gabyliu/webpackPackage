@@ -1,7 +1,7 @@
 # webpackPackage
 基于组件开发的webpack构建工具
 ```
-npm install webpackPackage
+npm install webpack_package
 ```
 安装构建工具
 

@@ -1,5 +1,5 @@
 {
-  "name": "webpackPackage",
+  "name": "webpack_package",
   "version": "1.0.0",
   "description": "package for webpack",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "init": "node package-init.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "gabyliu",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.17.0",
@@ -36,5 +36,17 @@
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "transfer-webpack-plugin": "^0.1.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabyliu/webpackPackage.git"
+  },
+  "keywords": [
+    "webpack",
+    "package"
+  ],
+  "bugs": {
+    "url": "https://github.com/gabyliu/webpackPackage/issues"
+  },
+  "homepage": "https://github.com/gabyliu/webpackPackage#readme"
 }
